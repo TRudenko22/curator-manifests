@@ -1,0 +1,1 @@
+postgresql.curator-system.svc.cluster.local
